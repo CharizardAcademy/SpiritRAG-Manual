@@ -33,3 +33,13 @@ Ultimately, SpiritRAG aims to offer a scalable and customizable tool for digital
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Nov 20, 2025, 09_47_02 AM.png" alt=""><figcaption><p><strong>Spirituality takes different forms across domains: in clinical care it may involve supporting seriously ill patients in accordance with their religious beliefs, while in education it can relate to promoting equity, fairness, and personal growth. Understanding these domain-specific contexts is essential for accurate and meaningful knowledge acquisition.</strong></p></figcaption></figure>
 
+SpiritRAG is the result of a truly interdisciplinary collaboration at the University of Zurich. Our team brings together four postdoctoral researchers whose expertise spans several academic traditions:
+
+* **Linguistic Research Infrastructure** (Dr. Yingqiang Gao\*), contributing insights into project implementation, including corpus construction, system architecting, platform deployment and maintanence, and&#x20;
+* **Department of Theology** (Dr. Fabian Winiger\*), offering deep domain knowledge on religion, spirituality, and their cultural and historical expressions
+* **Department of Computational Linguistics** (Dr. Anastasia Shaitarova), providing technical leadership in information retrieval, large language models, and system design
+* **Institute of Education** (Dr. Patrick Montjourides), enriching the project with perspectives on learning, equity, and the role of context in human understanding
+
+<sub>\*indicates main contributors</sub>
+
+Together, we integrate these complementary strengths to build a system that reflects the multifaceted nature of spiritual knowledge and supports rigorous, context-aware inquiry across disciplines.
