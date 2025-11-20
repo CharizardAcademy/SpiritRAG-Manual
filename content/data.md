@@ -20,3 +20,5 @@ SpiritRAG addresses this gap by providing a system capable of retrieving, synthe
 Despite we wanted to open source the curated corpus, we were asked officially by the United Nations to place this claimer text:&#x20;
 
 > The content of this publication has not been approved by the United Nations and does not reflect the views of the United Nations or its officials or Member States
+
+If you have a R/S corpus and would like to join SpiritRAG, please contact us!&#x20;
