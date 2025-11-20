@@ -16,3 +16,7 @@ For researchers and practitioners interested in nuanced topics such as religion 
 We use UN resolution documents as the foundation for SpiritRAG precisely because they represent one of the most authoritative, globally negotiated sources of policy language in areas where spirituality, human well-being, and social development intersect. At the same time, these documents exemplify the practical challenges faced by scholars and policymakers: they are rich in content but difficult to search, interpret, and contextualize.
 
 SpiritRAG addresses this gap by providing a system capable of retrieving, synthesizing, and generating knowledge from these materials with domain sensitivity. By grounding language models in the UN’s policy corpus, we enable precise, context-aware exploration of complex concepts and offer users a more accessible pathway to reliable information.
+
+Despite we wanted to open source the curated corpus, we were asked officially by the United Nations to place this claimer text:&#x20;
+
+> The content of this publication has not been approved by the United Nations and does not reflect the views of the United Nations or its officials or Member States
