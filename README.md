@@ -25,7 +25,7 @@ Welcome to the SpiritRAG manual.
 
 This guide provides a comprehensive overview of SpiritRAG, a question-answering system designed to support knowledge exploration in the domains of religion and spirituality.
 
-Developed at the University of Zurich by a team of four postdoctoral researchers with expertise in computer science, clinical anthropology, computational linguistics, and educational science, SpiritRAG represents an interdisciplinary effort to build a customizable and scalable tool for digital-humanities research. It enables domain-aware and context-sensitive information retrieval grounded in nuanced human knowledge.
+Developed at the University of Zurich by a team of four postdoctoral researchers with expertise in computer science, medical anthropology, computational linguistics, and educational science, SpiritRAG represents an interdisciplinary effort to build a customizable and scalable tool for digital-humanities research. It enables domain-aware and context-sensitive information retrieval grounded in nuanced human knowledge.
 
 In the following pages, you will find our research motivation, system architecture, implementation details, and an overview of the current features.
 
