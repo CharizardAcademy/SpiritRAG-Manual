@@ -35,11 +35,11 @@ Ultimately, SpiritRAG aims to offer a scalable and customizable tool for digital
 
 SpiritRAG is the result of a truly interdisciplinary collaboration at the University of Zurich. Our team brings together four postdoctoral researchers whose expertise spans several academic traditions:
 
-* **Linguistic Research Infrastructure** (Dr. Yingqiang Gao\*), contributing insights into project implementation, including corpus construction, system architecting, platform deployment and maintanence, and&#x20;
-* **Department of Theology** (Dr. Fabian Winiger\*), offering deep domain knowledge on religion, spirituality, and their cultural and historical expressions
-* **Department of Computational Linguistics** (Dr. Anastasia Shaitarova), providing technical leadership in information retrieval, large language models, and system design
-* **Institute of Education** (Dr. Patrick Montjourides), enriching the project with perspectives on learning, equity, and the role of context in human understanding
+* **Linguistic Research Infrastructure** (Dr. Yingqiang Gao\*), leading the technical implementation of the project, including corpus construction, system architecture, platform deployment and maintenance, and comprehensive system testing.
+* **Department of Theology** (Dr. Fabian Winiger\*), contributing deep expertise in religion and spirituality, offering contextual understanding of their cultural, historical, and interpretive evaluation dimensions.
+* **Department of Computational Linguistics** (Dr. Anastasia Shaitarova), providing expertise in corpus analysis, data visualization, linguistic insights, and the development of illustrative case studies.
+* **Institute of Education** (Dr. Patrick Montjourides), bringsing perspectives on policy, international frameworks, and the role of social and institutional context in education and health.
 
 <sub>\*indicates main contributors</sub>
 
-Together, we integrate these complementary strengths to build a system that reflects the multifaceted nature of spiritual knowledge and supports rigorous, context-aware inquiry across disciplines.
+Together, SpiritRAG integrates these complementary strengths to build a system that reflects the multifaceted nature of spiritual knowledge and supports rigorous, context-aware inquiry across disciplines.

@@ -2,9 +2,10 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Content
 
-* [Motivation](getting-started/publish-your-docs.md)
+* [Motivation](content/publish-your-docs.md)
+* [Data](content/data.md)
 
 ## Basics
 
