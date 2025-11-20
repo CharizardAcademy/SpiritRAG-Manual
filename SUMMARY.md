@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [SpiritRAG: RAG for Religion & Spirituality Research](getting-started/publish-your-docs.md)
+* [Motivation](getting-started/publish-your-docs.md)
 
 ## Basics
 

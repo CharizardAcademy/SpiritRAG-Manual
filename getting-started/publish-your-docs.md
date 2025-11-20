@@ -1,6 +1,6 @@
 ---
-description: Documentation of SpiritRAG
-icon: globe-pointer
+description: Why we developed SpiritRAG
+icon: '1'
 layout:
   width: default
   title:
@@ -21,10 +21,15 @@ metaLinks:
       https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/publish-your-docs
 ---
 
-# SpiritRAG: RAG for Religion & Spirituality Research
+# Motivation
 
-Welcome to the SpiritRAG manual! In this page, you'll find everything about SpiritRAG, a question answering system specialized in knowledge acquisition for religion & spirituality.&#x20;
+SpiritRAG was created to address a fundamental challenge in the study of religion and spirituality: knowledge in this domain is deeply shaped by context. Concepts such as _spiritual care_, _ritual practice_, or _well-being_ can carry different meanings depending on whether they appear in clinical care, education, social policy, anthropology, or other fields. Conventional question-answering systems often fail to capture these nuances because they treat queries as if they were independent of cultural, disciplinary, and situational backgrounds.
 
-You can publish your site and find related settings from your docs site's homepage.
+Our motivation was to build a system that respects this complexity. SpiritRAG grounds language generation in domain-sensitive information retrieval, ensuring that answers remain aligned with the specific traditions, practices, and scholarly interpretations relevant to the user’s query. By combining retrieval with large language models, it allows for precise, context-aware knowledge acquisition rather than generic or decontextualized responses.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+The project emerged from an interdisciplinary collaboration across computer science, clinical anthropology, computational linguistics, and education science. Each discipline contributed essential perspectives on how spirituality is lived, understood, and studied. This diversity helped shape a system capable of supporting researchers, clinicians, educators, and practitioners who rely on specialized and culturally rooted knowledge.
+
+Ultimately, SpiritRAG aims to offer a scalable and customizable tool for digital-humanities research, enabling users to explore spiritual knowledge in a way that is rigorous, contextual, and sensitive to human experience.
+
+<figure><img src="../.gitbook/assets/ChatGPT Image Nov 20, 2025, 09_47_02 AM.png" alt=""><figcaption><p><strong>Spirituality takes different forms across domains: in clinical care it may involve supporting seriously ill patients in accordance with their religious beliefs, while in education it can relate to promoting equity, fairness, and personal growth. Understanding these domain-specific contexts is essential for accurate and meaningful knowledge acquisition.</strong></p></figcaption></figure>
+
